@@ -7,3 +7,5 @@ Stash (trabajo imcompleto)
 Modificaciones pendientes de confirmar....
 
 Modificaciones terminadas
+
+Modificaciones desde rama fast_forward
